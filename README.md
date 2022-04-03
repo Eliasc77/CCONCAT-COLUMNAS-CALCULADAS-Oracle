@@ -49,7 +49,7 @@ select titulo || '-' || autor from libros;
  ```sql
 select * from libros;
 ```
- | titulo || '-' || autor          |
+ | titulo  autor          |
  | :------------------:|
  | El quijote   - Miguel de Cervantes         | 
  | Guerra yPaz  - Desconocido        |  
